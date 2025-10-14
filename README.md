@@ -1,2 +1,2 @@
 # CharityPayAi
-CharityPayAi is an open-source crypto donation platform supporting BTC, ETH, and USDC. It connects donors and charities globally with transparent, secure, and borderless giving.
+CharityPayAi is an open-source donation platform that empowers charitable organizations to easily accept crypto donations. Supporting mainstream cryptocurrencies such as BTC, ETH, and USDC, the platform offers transparent, efficient, and borderless giving. Our mission is to connect global donors and charities through blockchain technology, ensuring every donation is traceable, secure, and impactful.
